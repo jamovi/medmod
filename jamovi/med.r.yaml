@@ -133,6 +133,7 @@ items:
         - med
         - estMethod
         - ciWidth
+        - label
         
     - name:  modelSyntax
       type:  Property
