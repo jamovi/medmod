@@ -23,5 +23,7 @@ analyses:
     menuGroup: medmod
     menuTitle: Moderation
     description: Simple mediation analysis
+usesNative: true
+minApp: 1.0.8
 
 ...
